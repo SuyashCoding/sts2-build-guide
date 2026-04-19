@@ -40,7 +40,7 @@ Your main goal in Act 1 is to **trim strikes** and establish a theme for your de
 **Phrog Parasite** - Phrog Parasite will shuffle 3 *Infections* into your deck at the start of its turn. It will then swap between attacks and shuffling *Infections*. When it dies, it will summon 4 stunned Wrigglers. The first and third Wrigglers will always attack first, while the second and fourth will gain strength and shuffle an *Infection* in your deck. Tips against this boss are to have good AOE and a way to discard cards or have reliable block.
 
 **Bygone Effigy** - Bygone Effigy can be an easy elite or a run killer, depending on when you encounter him. It starts its first 2 turns doing nothing, and passively every time you play a card each turn, it takes 10% increased damage from attacks until the end of the turn. Then, Effigy will attack energy turn for 25 damage afterwards. This build can easily destroy this boss, as you can play multiple Shivs each turn, each dealing more and more damage. Try to get your power, ideally *Accuracy*, set up quickly, so you can do even more damage to Effigy before it can deal a lot of damage to you.
-#### Overgrowth Bosses
+### Overgrowth Bosses
 **Ceremonial Beast** - Ceremonial gains the Plow status, 150. When that health threshold is reached, it becomes stunned and loses all strength. A good tip for this is to apply vulnerable and throw Shivs at the beast until it reaches the threshold. It then gets stunned for 1 whole turn, and this is where it can take significant damage. It will wake up on the following turn. Once it does, it will always follow a cycle:
 - Apply Ringing
 - Deal 15 Damage
