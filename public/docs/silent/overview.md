@@ -4,7 +4,7 @@ The **Silent** is a fast, technical character who can win with anything as slow 
 
 ## Playstyle
 
-The Silent is all about **volume**. Where the Ironclad lands a few massive hits, she floods the combat with cheap cards, tiny hits that add up, and stacking damage-over-time through Poison. Her starting relic *Ring of the Snake* draws 2 extra cards at the start of combat, which sets the tone for how she plays every fight.
+The Silent is all about **volume**, she floods the combat with cheap cards and stacking damage-over-time through Poison. Her starting relic *Ring of the Snake* draws 2 extra cards at the start of combat, which sets the tone for how she plays every fight.
 
 ## Strengths
 

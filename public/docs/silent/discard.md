@@ -1,12 +1,12 @@
 # Silent — Discard Overview
 
-Discard Silent aims to draw deep with cards like **Accelerate**, **Prepared**, and **Reflex** then discard **Sly** cards in order to play them for free. At its apex, you will be able to comfortably one round anything the game could possibly throw at you. Even if you aren't going for a full discard build, the draw cards are generically strong and can easily slot into any build.
+Discard Silent aims to draw deep with cards like **Accelerate** and **Prepared**, then discard **Sly** cards in order to play them for free. At its apex, you will be able to comfortably one round anything the game could possibly throw at you. Even if you aren't going for a full discard build, the draw cards are generically strong.
 
 ## What To Aim For
 
 In magical cupcake fantasy land, you would have a ~15 size deck, enough copies of **Tactician** and Draw/Discard cards to generate infinite amounts of energy, and **Corrosive Wave** always active. This will almost never happen in any non-seeded run. However, getting close is often more than enough to win your run. Here are some general principles to go by:
 
-- **Upgrade Neutralize First** - Neutralize is an invaluable asset for early game survivability. You will be able to keep enemies weakened most, if not all, of the time.
+- Upgrade **[Neutralize](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Neutralize)** First - Neutralize is an invaluable asset for early game survivability. You will be able to keep enemies weakened most, if not all, of the time.
 
 - **If it gives Energy, take it** - Energy is your biggest limiter in STS2. Relics like **Chandelier** and **Super Hot Cocoa**, as well as cards like **Tactician**, are must-takes.
 
