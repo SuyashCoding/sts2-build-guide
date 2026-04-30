@@ -28,6 +28,13 @@ The Silent is all about **volume**, she floods the combat with cheap cards and s
 - **Piercing Wail** — Helps you get through fights with multiple enemies. Exhausts itself late game
 - **Well-laid Plans** — An unassuming but powerful card that thins your deck, high skill ceiling.
 
+## Relevant Potions
+
+- **Gambler's Brew** — Allows you to mulligan your hand while triggering Sly
+- **Cunning Potion** — Large burst of damage for Shiv builds
+- **Energy Potion** — Generally good since you'll have plenty of cards to work with
+- **Glowwater Potion** — Thins your deck and refills your hand 
+
 ## Tips
 
 > **Ring of the Snake is strongest in short combats.** You'll draw 2 extra cards on your first turn every fight. This allows you to get off to the races more consistently and combos amazingly with relics like Very Hot Cocoa. 

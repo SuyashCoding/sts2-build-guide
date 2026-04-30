@@ -16,29 +16,40 @@ In magical cupcake fantasy land, you would have a ~15 size deck, enough copies o
 
 This is a list of the cards I would consider taking if offered, in order of highest priority to lowest priority, along with some reasoning as to why. This list isn't a hard rule and will depend on the state of your run.
 
-- **Corrosive Wave** - By far the best win condition for this style of Silent. If you can keep drawing, you can stack infinite poison.
+- **[Corrosive Wave](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Corrosive_Wave)** - By far the best win condition for this style of Silent. If you can keep drawing, you can stack infinite poison.
 
-- **Tactician** - Repeatable energy generation. Great to get at any point of the game; even early on it can be triggered with Survivor.
+- **[Tactician](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Tactician)** - Repeatable energy generation. Great to get at any point of the game; even early on it can be triggered with Survivor.
 
-- **Adrenaline** - Gives you energy and draws cards. Great at any point.
+- **[Adrenaline](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Adrenaline)** - Gives you energy and draws cards. Great at any point.
 
-- **Accelerant** - Only if you already have *Corrosive Wave* or large amounts of poison otherwise.
+- **[Accelerant](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Accelerant)** - Only if you already have *Corrosive Wave* or large amounts of poison otherwise.
 
-- **Master Planner** - Largely useful earlier on but has applications late game as well. Try to upgrade it to reduce its cost.
+- **[Master Planner](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Master_Planner)** - Largely useful earlier on but has applications late game as well. Try to upgrade it to reduce its cost.
 
-- **Calculated Gamble** - Disgusting with *Corrosive Wave*, triggers all of your Slys and gives you a fresh hand.
+- **[Calculated Gamble](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Calculated_Gamble)** - Disgusting with *Corrosive Wave*, triggers all of your Slys and gives you a fresh hand.
 
-- **Acrobatics** - Draws the deepest and gives you a discard on top.
+- **[Acrobatics](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Acrobatics)** - Draws the deepest and gives you a discard on top.
 
-- **Prepared** - Good unupgraded but becomes fantastic when upgraded. Prepared+ > Acrobatics.
+- **[Prepared](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Prepared)** - Good unupgraded but becomes fantastic when upgraded. Prepared+ > Acrobatics.
 
-- **Reflex** - More card draw, useful at any point, but only take mid-late game with sufficient discard.
+- **[Reflex](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Reflex)** - More card draw, useful at any point, but only take mid-late game with sufficient discard.
 
-- **Tools Of The Trade** - Great early to mid game as well as some late game scenarios. If you aren't going through multiple turns late game then don't take it.
+- **[Tools Of The Trade](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Tools_Of_The_Trade)** - Great early to mid game as well as some late game scenarios. If you aren't going through multiple turns late game then don't take it.
 
-- **Stratagem** - The only colorless card I will put here just because it is superb to have if you are already off to the races. Unlikely to find.
+- **[Stratagem](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Stratagem)** - The only colorless card I will put here just because it is superb to have if you are already off to the races. Unlikely to find.
 
-- **Escape Plan** - The block rarely comes up; it's more useful as a 0 cost deck thinner.
+- **[Escape Plan](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Escape_Plan)** - The block rarely comes up; it's more useful as a 0 cost deck thinner.
+
+## Important Relics
+
+A list of some great relics to pick up in no particular order. There's no way to control what relics you have access to, so just take them as they show up.
+
+**Gambling Chip** - Allows you a free mulligan with your extra 2 draws that also triggers sly
+**Tough Bandages** - 3 block per discard is insanely abusable and means you can focus on being aggressive. 
+**Very Hot Cocoa** - Starting with 4 additionally energy in addition to the two draws you already start with allows you to do a lot more on your first turn.
+**Bag Of Preparation** - Gives you 2 more cards on your first turn, allowing you to deepdraw more
+
+
 
 ## Act 1
 
@@ -46,7 +57,7 @@ Your main goal in Act 1 is to set yourself up for success. Plan your route in or
 
 ## Overgrowth Elites
 
-- **Brydonis** - In contention for the easiest Act 1 Elite in the game. Brydonis gains 1 Strength every turn, so you shouldn't keep the fight going for too long, but you have a lot of time.
+- **Brydonis** - Brydonis gains 1 Strength every turn, so you shouldn't keep the fight going for too long, but you have a lot of time.
 
 - **Phrog Parasite** - Phrog will try to fill your deck with **Infection** as the fight goes on. The Silent is one of the better characters at dealing with it due to being able to discard them, but you shouldn't get too lackadaisical. Upon dying, Phrog will create 4 Wrigglers that will be stunned for their first turn. If possible, try to kill Phrog with poison; doing so will grant you 2 free turns with which to handle the Wrigglers.
 
@@ -126,7 +137,7 @@ Congratulations! You've made it to Act 3. If all has gone well enough, Act 3 sho
 
 - **Test Subject** - Test Subject's fight happens in 3 phases. In the first phase, he will have 100 HP and gain Strength every time you play a skill. This is dangerous if you can't one round him, but you should be dealing 100 damage comfortably by this point. Subject will also lose all Strength obtained in this phase upon progressing to phase 2. In phase 2, Subject has 200 HP and adds Wounds to your deck every time he hits you. Subject's damage will ramp fast, as each turn he will increase the amount of hits by 1. In Phase 3, Subject will have 300 HP and becomes functionally immune to damage every other turn. He will also try to fill your deck with Burns Mecha Knight-style, which could be a problem if you took several Wound cards in Phase 2.
 
-- **Queen** - If you rolled Queen as your Act 3 boss, I am sorry for your loss. Queen is by far the most difficult boss and it isn't even close. Queen gives you **Chains of Binding** on your first turn, which makes one of 3 cards that you draw unplayable. This isn't too bad for us, though certainly not ideal if your deck isn't that consistent. Turn 2 she then proceeds to apply 99 Frail, Weak, and Vulnerable. This is DEVASTATING. With Weak taken into account, she has more effective health than Doormaker and Subject, but also brings along a hard-hitting minion. Poison gets around Weakness, but Queen is a giant deck check for Silent. If you can kill her in 1-2 turns? GG. If you can't? This is going to be a very hard battle.
+- **Queen** - *If you rolled Queen as your Act 3 boss, I am sorry for your loss.* Queen is by far the most difficult boss and it isn't even close. Queen gives you **Chains of Binding** on your first turn, which makes one of 3 cards that you draw unplayable. This isn't too bad for us, though certainly not ideal if your deck isn't that consistent. Turn 2 she then proceeds to apply 99 Frail, Weak, and Vulnerable. This is DEVASTATING. With Weak taken into account, she has more effective health than Doormaker and Subject, but also brings along a hard-hitting minion. Poison gets around Weakness, but Queen is a giant deck check for Silent. If you can kill her in 1-2 turns? Congrats! If you can't? This is going to be a very hard battle.
 
 
 
