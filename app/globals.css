@@ -1,5 +1,5 @@
-@import 'tailwindcss';
-@import 'tw-animate-css';
+@import "tailwindcss";
+@import "tw-animate-css";
 
 @custom-variant dark (&:is(.dark *));
 
@@ -16,7 +16,7 @@
   --secondary: oklch(0.31 0.025 52);
   --secondary-foreground: oklch(0.95 0.015 70);
   --muted: oklch(0.29 0.02 52);
-  --muted-foreground: oklch(0.70 0.03 60);
+  --muted-foreground: oklch(0.7 0.03 60);
   --accent: oklch(0.34 0.03 52);
   --accent-foreground: oklch(0.95 0.015 70);
   --destructive: oklch(0.64 0.19 28);
@@ -26,9 +26,9 @@
   --ring: oklch(0.76 0.16 32);
   --chart-1: oklch(0.76 0.16 32);
   --chart-2: oklch(0.68 0.15 148);
-  --chart-3: oklch(0.70 0.18 320);
+  --chart-3: oklch(0.7 0.18 320);
   --chart-4: oklch(0.78 0.14 80);
-  --chart-5: oklch(0.70 0.16 235);
+  --chart-5: oklch(0.7 0.16 235);
   --radius: 0.5rem;
   --sidebar: oklch(0.24 0.025 52);
   --sidebar-foreground: oklch(0.95 0.015 70);
@@ -40,16 +40,22 @@
   --sidebar-ring: oklch(0.76 0.16 32);
 
   /* Character colors — vivid, high-chroma, readable on dark backgrounds */
-  --ironclad: oklch(0.72 0.28 22);         /* Electric scarlet red */
-  --silent: oklch(0.74 0.25 152);          /* Bright emerald green */
-  --necrobinder: oklch(0.68 0.31 308);     /* Electric violet-purple */
-  --regent: oklch(0.84 0.20 83);           /* Rich warm gold */
-  --defect: oklch(0.74 0.24 228);          /* Electric sky blue */
+  --ironclad: oklch(0.72 0.28 22); /* Electric scarlet red */
+  --silent: oklch(0.74 0.25 152); /* Bright emerald green */
+  --necrobinder: oklch(0.68 0.31 308); /* Electric violet-purple */
+  --regent: oklch(0.84 0.2 83); /* Rich warm gold */
+  --defect: oklch(0.74 0.24 228); /* Electric sky blue */
+
+  /* Entity type colors — used across all build guide markdown */
+  --entity-card: oklch(0.82 0.18 85); /* Warm amber gold  — cards   */
+  --entity-relic: oklch(0.75 0.28 330); /* Vivid magenta    — relics  */
+  --entity-potion: oklch(0.76 0.22 252); /* Electric blue    — potions */
+  --entity-enemy: oklch(0.72 0.27 28); /* Bright red       — enemies */
 }
 
 @theme inline {
-  --font-sans: 'Kreon', serif;
-  --font-mono: 'Geist Mono', 'Geist Mono Fallback';
+  --font-sans: "Kreon", serif;
+  --font-mono: "Geist Mono", "Geist Mono Fallback";
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-card: var(--card);
@@ -86,13 +92,19 @@
   --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
   --color-sidebar-border: var(--sidebar-border);
   --color-sidebar-ring: var(--sidebar-ring);
-  
+
   /* Character colors */
   --color-ironclad: var(--ironclad);
   --color-silent: var(--silent);
   --color-necrobinder: var(--necrobinder);
   --color-regent: var(--regent);
   --color-defect: var(--defect);
+
+  /* Entity type colors */
+  --color-entity-card: var(--entity-card);
+  --color-entity-relic: var(--entity-relic);
+  --color-entity-potion: var(--entity-potion);
+  --color-entity-enemy: var(--entity-enemy);
 }
 
 @layer base {
@@ -129,7 +141,11 @@
 /* Respect reduced-motion preference */
 @media (prefers-reduced-motion: reduce) {
   @keyframes page-fade-up {
-    from { opacity: 0; }
-    to   { opacity: 1; }
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
   }
 }
