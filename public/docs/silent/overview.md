@@ -22,11 +22,11 @@ The Silent is all about **volume**, she floods the combat with cheap cards and s
 
 ## Early Priority Picks
 
-- **Acrobatics** — Fantastic draw option that also procs your sly effects.
-- **Prepared** — 0 cost draw 1 discard 1 is good early and shines even more when upgraded.
-- **Tactician** — The enabler to end all enablers, energy regeneration is exceptionally strong.
-- **Piercing Wail** — Helps you get through fights with multiple enemies. Exhausts itself late game
-- **Well-laid Plans** — An unassuming but powerful card that thins your deck, high skill ceiling.
+- **[Acrobatics](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Acrobatics)** — Fantastic draw option that also procs your sly effects.
+- **[Prepared](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Prepared)** — 0 cost draw 1 discard 1 is good early and shines even more when upgraded.
+- **[Tactician](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Tactician)** — The enabler to end all enablers, energy regeneration is exceptionally strong.
+- **[Piercing Wail](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Piercing_Wail)** — Helps you get through fights with multiple enemies. Exhausts itself late game
+- **[Well-laid Plans](https://slaythespire.wiki.gg/wiki/Slay_the_Spire_2:Well-Laid_Plans)** — An unassuming but powerful card that thins your deck, high skill ceiling.
 
 ## Relevant Potions
 
